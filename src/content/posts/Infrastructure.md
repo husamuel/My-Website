@@ -14,13 +14,6 @@ In this project I wanted to learn in practice how to build an automated infrastr
 
 Look the [códe](https://github.com/husamuel/My-Website)
 
-## Project Objectives
-
-- Learn how to provision AWS infrastructure using Terraform modules
-- Gain hands-on experience automating server setup with Ansible
-- Understand how to integrate Terraform and Ansible for efficient infrastructure management
-- Learn how to provision AWS infrastructure using Terraform modules
-
 ## Project Structure
 
 The project was organized as follows:
