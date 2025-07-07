@@ -253,7 +253,7 @@ This playbook:
 ansible-playbook -i ansible/inventory.ini ansible/playbook.yml
 ```
 
-## Challenges and Solutions
+## Challenges that I faced
 
 During the project, I faced some common challenges. One of them was the inability to connect via SSH due to the Security Group rules, which did not allow access via port 22. I fixed this by adjusting the rules to allow access.
 
@@ -261,9 +261,3 @@ Another issue was the use of Python 2 by default in the instance, which caused A
 
 These difficulties reinforced the importance of correctly configuring the remote environment so that automation works smoothly.
 
-## Lessons Learned
-
-- Automating infrastructure increases efficiency and reduces manual errors
-- Understanding Terraform and Ansible configuration details prevents headaches
-- Properly configuring the remote environment (Python, permissions, network) is critical for Ansible
-- Terraform + Ansible integration allows for distinct provisioning and configuration stages
