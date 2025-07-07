@@ -12,6 +12,8 @@ draft: false
 
 In this project I wanted to learn in practice how to build an automated infrastructure on AWS using Terraform to provision resources and Ansible to configure servers. The goal was to provision an EC2 instance running Nginx, with the entire process orchestrated through code.
 
+Look the [códe](https://github.com/husamuel/My-Website)
+
 ## Project Objectives
 
 - Learn how to provision AWS infrastructure using Terraform modules
