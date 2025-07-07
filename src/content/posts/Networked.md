@@ -4,7 +4,7 @@ published: 2025-06-26
 description: A detailed walkthrough of the Networked HTB Linux machine, covering reconnaissance, exploitation of a vulnerable file upload functionality, privilege escalation via cron job and sudo script vulnerabilities, and flag capture.
 tags: [HTB, Linux, File Upload, Command Injection, Cron Job, Privilege Escalation, CTF]
 category: Walkthrough
-draft: true
+draft: false
 ---
 
 # Networked HTB — Full Walkthrough

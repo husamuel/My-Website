@@ -4,7 +4,7 @@ published: 2025-07-01
 description: Exploring securing JSON/REST APIs, covering reconnaissance, endpoint testing, hidden parameter discovery, and vulnerability mitigation with practical examples.
 tags: [API Security, JSON, REST, Burp Suite, OWASP, Cybersecurity, Web Security]
 category: Article
-draft: true
+draft: false
 ---
 
 ## Overview

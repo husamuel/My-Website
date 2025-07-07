@@ -4,7 +4,7 @@ published: 2025-06-28
 description: A detailed walkthrough of the Cicada HTB Windows Active Directory box, covering reconnaissance, initial access, privilege escalation, and domain admin takeover.
 tags: [HTB, Active Directory, SMB, Privilege Escalation, Windows, CTF]
 category: Walkthrough
-draft: true
+draft: false
 ---
 
 # Cicada HTB — Full Walkthrough

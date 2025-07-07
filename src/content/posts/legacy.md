@@ -4,7 +4,7 @@ published: 2025-06-23
 description: A detailed walkthrough of the Legacy HTB Windows machine, covering reconnaissance, exploitation of the MS08-067 vulnerability, post-exploitation, and flag capture.
 tags: [HTB, MS08-067, Windows, SMB, Metasploit, CTF]
 category: Walkthrough
-draft: true
+draft: false
 ---
 
 

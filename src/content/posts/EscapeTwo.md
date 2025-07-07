@@ -4,7 +4,7 @@ published: 2025-06-29
 description: A comprehensive guide to solving the EscapeTwo HTB Windows Active Directory box, detailing reconnaissance, SMB exploitation, MSSQL abuse, and privilege escalation to Domain Admin.
 tags: [HTB, Active Directory, SMB, MSSQL, Privilege Escalation, Windows, CTF]
 category: Walkthrough
-draft: true
+draft: false
 ---
 
 # EscapeTwo HTB — Full Walkthrough

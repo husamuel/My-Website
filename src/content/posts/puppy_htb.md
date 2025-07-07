@@ -4,7 +4,7 @@ published: 2025-06-23
 description: A detailed walkthrough of the Puppy HTB Windows Active Directory box, covering reconnaissance, initial access, privilege escalation, and domain admin takeover.
 tags: [HTB, Active Directory, BloodHound, Privilege Escalation, Windows, CTF]
 category: Walkthrough
-draft: true
+draft: false
 ---
 
 
