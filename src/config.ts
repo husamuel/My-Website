@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 	enable: true, // <- Ativa o banner
-	src: "https://plus.unsplash.com/premium_photo-1681930071839-e5fbf9fae636?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+	src: "./assets/images/fogo.jpg",
 	credit: {
 		enable: false, // <- Mostra o crédito
 		text: "",

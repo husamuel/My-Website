@@ -1,8 +1,8 @@
 ---
-title: AWS Infrastructure Automation Project with Terraform and Ansible
+title: AWS Infrastructure with Terraform and Ansible
 published: 2025-07-06
 description: A practical project for provisioning and automating EC2 server configuration on AWS using Terraform for infrastructure and Ansible for configuration management.
-tags: [AWS, Terraform, Ansible, IaaS, Automation, DevOps, Nginx]
+tags: [AWS, Terraform, Ansible]
 category: Projects
 draft: false
 ---

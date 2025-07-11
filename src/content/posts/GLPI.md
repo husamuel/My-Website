@@ -1,12 +1,11 @@
 ---
-title: Building a Ticket System Environment with GLPI
+title: Ticket System Environment with GLPI
 published: 2025-06-23  
 description: A hands-on walkthrough of installing, configuring, and using GLPI to simulate real-world helpdesk workflows, including user roles, ticket management, and dashboard reporting.  
-tags: [GLPI, Helpdesk, ITSM, Ticketing System, Docker, Support Workflow]  
+tags: [Ticketing System]  
 category: Projects  
 draft: false  
 ---
-
 
 # Practical Lab: My First Experience with GLPI (Helpdesk System)
 
